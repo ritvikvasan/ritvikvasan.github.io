@@ -2,3 +2,4 @@ theme: jekyll-theme-minimal
 title: Welcome to ritvikvasan's homepage!
 name: Ritvik Vasan
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title

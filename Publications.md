@@ -6,9 +6,9 @@ title: Publications
 You can also browse my <a href="https://scholar.google.com/citations?user=NFIAyPIAAAAJ&hl=en&oi=ao" target="_blank">Google Scholar profile</a>.
 <br />
 
-<h3>
+<h1>
     <a name='2019'></a> 2019
-</h3>
+</h1>
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
@@ -20,9 +20,9 @@ You can also browse my <a href="https://scholar.google.com/citations?user=NFIAyP
        </p>
     </div>
 </div>
-<h3>
+<h1>
     <a name='2018'></a> 2018
-</h3>
+</h1>
 <div class="media">
     <div class="media-body">
        <p class="media-heading">

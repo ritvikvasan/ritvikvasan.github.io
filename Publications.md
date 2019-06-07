@@ -21,7 +21,7 @@ You can also browse my <a href="https://scholar.google.com/citations?user=NFIAyP
     </div>
 </div>
 
-</h3>
+<h3>
     <a name='2018'></a> 2018
 </h3>
 <div class="media">

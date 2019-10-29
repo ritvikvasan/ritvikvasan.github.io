@@ -50,7 +50,7 @@ You can also browse my <a href="https://scholar.google.com/citations?user=NFIAyP
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-          <strong>A mechanical model reveals that non-axisymmetric buckling lowers the energy barrier associated with membrane neck constriction
+          <strong>Principles of self-organization and load adaptation by the actin cytoskeleton during clathrin-mediated endocytosis
 </strong><br />
           Matthew Akamatsu, <b>Ritvik Vasan</b>, Daniel Serwas, Michael Ferrin, Padmini Rangamani, David Drubin<br />
           biorxiv<br />

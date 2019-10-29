@@ -12,11 +12,49 @@ You can also browse my <a href="https://scholar.google.com/citations?user=NFIAyP
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
+          <strong>Applications and Challenges of Machine Learning to Enable Realistic Cellular Simulations
+</strong><br />
+          <b>Ritvik Vasan</b>, Meagan Rowan, Chris T. Lee, Gregory R. Johnson, Padmini Rangamani, Mike Holst<br />
+          In prep<br />
+       </p>
+    </div>
+</div>
+<h1>
+</h1>
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
           <strong>DLITE uses cell-cell interface movement to better infer cell-cell tensions
 </strong><br />
           <b>Ritvik Vasan</b>, Molly M. Malcker, C. D. Williams, Padmini Rangamani<br />
-          Under review, bioarxiv<br />
+          biorxiv<br />
           <a href="https://www.biorxiv.org/content/biorxiv/early/2019/04/29/541144.full.pdf">[PDF]</a> <br />
+       </p>
+    </div>
+</div>
+<h1>
+</h1>
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
+          <strong>A mechanical model reveals that non-axisymmetric buckling lowers the energy barrier associated with membrane neck constriction
+</strong><br />
+          <b>Ritvik Vasan</b>, Shiva Rudraraju, Matthew Akamatsu, Krishna Garikipati, Padmini Rangamani<br />
+          arxiv<br />
+          <a href="https://arxiv.org/pdf/1906.06443.pdf">[PDF]</a> <br />
+       </p>
+    </div>
+</div>
+<h1>
+</h1>
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
+          <strong>A mechanical model reveals that non-axisymmetric buckling lowers the energy barrier associated with membrane neck constriction
+</strong><br />
+          Matthew Akamatsu, <b>Ritvik Vasan</b>, Daniel Serwas, Michael Ferrin, Padmini Rangamani, David Drubin<br />
+          biorxiv<br />
+          <a href="https://www.biorxiv.org/content/biorxiv/early/2019/06/21/678797.full.pdf">[PDF]</a> <br />
        </p>
     </div>
 </div>

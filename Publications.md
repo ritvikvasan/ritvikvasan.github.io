@@ -16,7 +16,8 @@ You can also browse my <a href="https://scholar.google.com/citations?user=NFIAyP
           <strong>Applications and Challenges of Machine Learning to Enable Realistic Cellular Simulations
 </strong><br />
           <b>Ritvik Vasan</b>, Meagan Rowan, Chris T. Lee, Gregory R. Johnson, Padmini Rangamani, Mike Holst<br />
-          In prep<br />
+          Arxiv<br />
+          <a href="https://arxiv.org/pdf/1911.05218.pdf">[PDF]</a> <br />
           <a href="https://github.com/AllenCellModeling/Gaussian_CVAE">[Github]</a> <br />
        </p>
     </div>

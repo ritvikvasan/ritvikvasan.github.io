@@ -8,6 +8,21 @@ You can also browse my <a href="https://scholar.google.com/citations?user=NFIAyP
 <br />
 
 <h1>
+    <a name='2020'></a> 2020
+</h1>
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
+          <strong>Principles of self-organization and load adaptation by the actin cytoskeleton during clathrin-mediated endocytosis
+</strong><br />
+          Matthew Akamatsu, <b>Ritvik Vasan</b>, Daniel Serwas, Michael Ferrin, Padmini Rangamani, David Drubin<br />
+          eLife<br />
+          <a href="https://elifesciences.org/articles/49840">[Link]</a> <br />
+          <a href="https://github.com/DrubinBarnes/Akamatsu_CME_manuscript">[Github]</a> <br />
+       </p>
+    </div>
+</div>
+<h1>
     <a name='2019'></a> 2019
 </h1>
 <div class="media">
@@ -16,8 +31,8 @@ You can also browse my <a href="https://scholar.google.com/citations?user=NFIAyP
           <strong>Applications and Challenges of Machine Learning to Enable Realistic Cellular Simulations
 </strong><br />
           <b>Ritvik Vasan</b>, Meagan Rowan, Chris T. Lee, Gregory R. Johnson, Padmini Rangamani, Mike Holst<br />
-          Arxiv<br />
-          <a href="https://arxiv.org/pdf/1911.05218.pdf">[PDF]</a> <br />
+          Frontiers in Physics<br />
+          <a href="https://www.frontiersin.org/articles/10.3389/fphy.2019.00247/full">[Link]</a> <br />
           <a href="https://github.com/AllenCellModeling/Gaussian_CVAE">[Github]</a> <br />
        </p>
     </div>
@@ -44,23 +59,9 @@ You can also browse my <a href="https://scholar.google.com/citations?user=NFIAyP
           <strong>A mechanical model reveals that non-axisymmetric buckling lowers the energy barrier associated with membrane neck constriction
 </strong><br />
           <b>Ritvik Vasan</b>, Shiva Rudraraju, Matthew Akamatsu, Krishna Garikipati, Padmini Rangamani<br />
-          Arxiv<br />
-          <a href="https://arxiv.org/pdf/1906.06443.pdf">[PDF]</a> <br />
+          Soft Matter<br />
+          <a href="https://pubs.rsc.org/en/content/articlehtml/2020/sm/c9sm01494b">[Link]</a> <br />
           <a href="https://github.com/cmmg/biologicalMembraneMechanics">[Github]</a> <br />
-       </p>
-    </div>
-</div>
-<h1>
-</h1>
-<div class="media">
-    <div class="media-body">
-       <p class="media-heading">
-          <strong>Principles of self-organization and load adaptation by the actin cytoskeleton during clathrin-mediated endocytosis
-</strong><br />
-          Matthew Akamatsu, <b>Ritvik Vasan</b>, Daniel Serwas, Michael Ferrin, Padmini Rangamani, David Drubin<br />
-          biorxiv<br />
-          <a href="https://www.biorxiv.org/content/biorxiv/early/2019/06/21/678797.full.pdf">[PDF]</a> <br />
-          <a href="https://github.com/DrubinBarnes/Akamatsu_CME_manuscript">[Github]</a> <br />
        </p>
     </div>
 </div>
@@ -73,7 +74,7 @@ You can also browse my <a href="https://scholar.google.com/citations?user=NFIAyP
           <strong>The role of traction in membrane curvature generation</strong><br />
           Haleh Alimohamadi*, <b>Ritvik Vasan*</b>, Julian Hassinger, Jeanne Stachowiak, Padmini Rangamani<br />
           Molecular Biology of the Cell, 2018<br />
-          <a href="https://www.molbiolcell.org/doi/pdf/10.1091/mbc.E18-02-0087">[PDF]</a><br />
+          <a href="https://doi.org/10.1091/mbc.E18-02-0087">[Link]</a><br />
           <a href="https://github.com/ritvikvasan/EMM">[Github]</a> <br />
        </p>
     </div>
@@ -84,7 +85,7 @@ You can also browse my <a href="https://scholar.google.com/citations?user=NFIAyP
           <strong>Intracellular Membrane Trafficking: Modeling Local Movements in Cells</strong><br />
           <b>Ritvik Vasan</b>, Matthew Akamatsu, Johannes Schöneberg, Padmini Rangamani <br />
           Springer, 2018<br />
-          <a href="https://link.springer.com/content/pdf/10.1007%2F978-3-319-96842-1_9.pdf">[PDF]</a><br />
+          <a href="https://link.springer.com/chapter/10.1007/978-3-319-96842-1_9">[Link]</a><br />
        </p>
     </div>
 </div>

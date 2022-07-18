@@ -6,6 +6,32 @@ subtitle: Publications
 
 You can also browse my <a href="https://scholar.google.com/citations?user=NFIAyPIAAAAJ&hl=en&oi=ao" target="_blank">Google Scholar profile</a>.
 <br />
+<h1>
+    <a name='2021'></a> 2021
+</h1>
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
+          <strong>Mechanistic insights into actin force generation during vesicle formation from cryo-electron tomography
+</strong><br />
+          Daniel Serwas, Matthew Akamatsu, Amir Moayed, Karthik Vegesna, <b>Ritvik Vasan</b>, Jennifer M. Hill, Johannes Schöneberg, Karen M. Davies, Padmini Rangamani, David Drubin<br />
+          Developmental Cell<br />
+          <a href="https://www.sciencedirect.com/science/article/pii/S1534580722002520">[Link]</a> <br />
+       </p>
+    </div>
+</div>
+
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
+          <strong>Biomembranes undergo complex, non-axisymmetric deformations governed by Kirchhoff–Love kinematicsand revealed by a three-dimensional computational framework
+</strong><br />
+          Debabrata Auddya , Xiaoxuan Zhang , Rahul Gulati, <b>Ritvik Vasan</b>, Krishna Garikipati, Padmini Rangamani, Shiva Rudraraju<br />
+          Proceedings of the Royal Society A<br />
+          <a href="https://royalsocietypublishing.org/doi/full/10.1098/rspa.2021.0246">[Link]</a> <br />
+       </p>
+    </div>
+</div>
 
 <h1>
     <a name='2020'></a> 2020

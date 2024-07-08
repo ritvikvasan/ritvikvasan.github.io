@@ -6,8 +6,37 @@ subtitle: Publications
 
 You can also browse my <a href="https://scholar.google.com/citations?user=NFIAyPIAAAAJ&hl=en&oi=ao" target="_blank">Google Scholar profile</a>.
 <br />
+
 <h1>
-    <a name='2021'></a> 2021
+    <a name='2024'></a> 2024
+</h1>
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
+          <strong>Colony context and size-dependent compensation mechanisms give rise to variations in nuclear growth trajectories
+</strong><br />
+          Julie Dixon, Christopher Frick, Chantelle Leveille, <b>Ritvik Vasan</b>*, Phillip Garrison*, Peyton Lee*, Sourabh Mogre*, Benjamin Morris*, Nivedita Nivedita*, ..., Susanne Rafelski <br />
+          bioRxiv<br />
+          <a href="https://www.biorxiv.org/content/10.1101/2024.06.28.601071v1.abstract">[Link]</a> <br />
+       </p>
+    </div>
+</div>
+<h1>
+    <a name='2023'></a> 2023
+</h1>
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
+          <strong>Integrated intracellular organization and its variations in human iPS cells
+</strong><br />
+          Matheus Viana, <b>Ritvik Vasan</b>*, Jianxu Chen*, Theo Knijnenburg*, Calysta Yan*, ..., Susanne Rafelski <br />
+          Nature<br />
+          <a href="https://www.nature.com/articles/s41586-022-05563-7">[Link]</a> <br />
+       </p>
+    </div>
+</div>
+<h1>
+    <a name='2021'></a> 2022
 </h1>
 <div class="media">
     <div class="media-body">
@@ -20,7 +49,9 @@ You can also browse my <a href="https://scholar.google.com/citations?user=NFIAyP
        </p>
     </div>
 </div>
-
+<h1>
+    <a name='2021'></a> 2021
+</h1>
 <div class="media">
     <div class="media-body">
        <p class="media-heading">

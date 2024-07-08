@@ -18,6 +18,7 @@ You can also browse my <a href="https://scholar.google.com/citations?user=NFIAyP
           Julie Dixon, Christopher Frick, Chantelle Leveille, <b>Ritvik Vasan</b>*, Phillip Garrison*, Peyton Lee*, Sourabh Mogre*, Benjamin Morris*, Nivedita Nivedita*, ..., Susanne Rafelski <br />
           bioRxiv<br />
           <a href="https://www.biorxiv.org/content/10.1101/2024.06.28.601071v1.abstract">[Link]</a> <br />
+          <a href="https://github.com/AllenCell/nuc-morph-analysis">[Github]</a> <br />
        </p>
     </div>
 </div>
@@ -32,6 +33,7 @@ You can also browse my <a href="https://scholar.google.com/citations?user=NFIAyP
           Matheus Viana, <b>Ritvik Vasan</b>*, Jianxu Chen*, Theo Knijnenburg*, Calysta Yan*, ..., Susanne Rafelski <br />
           Nature<br />
           <a href="https://www.nature.com/articles/s41586-022-05563-7">[Link]</a> <br />
+          <a href="https://github.com/AllenCell/cvapipe_analysis">[Github]</a> <br />
        </p>
     </div>
 </div>

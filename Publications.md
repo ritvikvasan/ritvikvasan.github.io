@@ -13,6 +13,21 @@ You can also browse my <a href="https://scholar.google.com/citations?user=8_Mnsn
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
+          <strong>Interpretable representation learning for 3D multi-piece intracellular structures using point clouds
+</strong><br />
+          <b>Ritvik Vasan</b>, Alexandra Ferrante, Antoine Borensztejn, Chris Frick,
+          ..., Susanne Rafelski, Julie Theriot, Matheus Viana<br />
+          Frontiers in Physics<br />
+          <a href="https://www.biorxiv.org/content/10.1101/2024.07.25.605164.abstract">[Link]</a> <br />
+          <a href="https://github.com/AllenCell/benchmarking_representations">[Github]</a> <br />
+       </p>
+    </div>
+</div>
+<h1>
+</h1>
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
           <strong>Colony context and size-dependent compensation mechanisms give rise to variations in nuclear growth trajectories
 </strong><br />
           Julie Dixon, Christopher Frick, Chantelle Leveille, <b>Ritvik Vasan</b>*, Phillip Garrison*, Peyton Lee*, Sourabh Mogre*, Benjamin Morris*, Nivedita Nivedita*, ..., Susanne Rafelski <br />
